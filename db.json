@@ -1,7 +1,7 @@
 {
   "pokemon": [
     {
-      "id": 2,
+      "id": "2",
       "name": "ivysaur",
       "hp": 60,
       "sprites": {
@@ -10,7 +10,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "venusaur",
       "hp": 80,
       "sprites": {
@@ -19,7 +19,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "charmander",
       "hp": 39,
       "sprites": {
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "charmeleon",
       "hp": 58,
       "sprites": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "charizard",
       "hp": 78,
       "sprites": {
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "squirtle",
       "hp": 44,
       "sprites": {
@@ -55,7 +55,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "wartortle",
       "hp": 59,
       "sprites": {
@@ -64,7 +64,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "blastoise",
       "hp": 79,
       "sprites": {
@@ -73,7 +73,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "caterpie",
       "hp": 45,
       "sprites": {
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "metapod",
       "hp": 50,
       "sprites": {
@@ -91,7 +91,7 @@
       }
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "butterfree",
       "hp": 60,
       "sprites": {
@@ -100,7 +100,7 @@
       }
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "weedle",
       "hp": 40,
       "sprites": {
@@ -109,7 +109,7 @@
       }
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "kakuna",
       "hp": 45,
       "sprites": {
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "beedrill",
       "hp": 65,
       "sprites": {
@@ -127,7 +127,7 @@
       }
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "pidgey",
       "hp": 40,
       "sprites": {
@@ -136,7 +136,7 @@
       }
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "pidgeotto",
       "hp": 63,
       "sprites": {
@@ -145,7 +145,7 @@
       }
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "pidgeot",
       "hp": 83,
       "sprites": {
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "rattata",
       "hp": 30,
       "sprites": {
@@ -163,7 +163,7 @@
       }
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "raticate",
       "hp": 55,
       "sprites": {
@@ -172,7 +172,7 @@
       }
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "spearow",
       "hp": 40,
       "sprites": {
@@ -181,7 +181,7 @@
       }
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "fearow",
       "hp": 65,
       "sprites": {
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "ekans",
       "hp": 35,
       "sprites": {
@@ -199,7 +199,7 @@
       }
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "arbok",
       "hp": 60,
       "sprites": {
@@ -208,7 +208,7 @@
       }
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "pikachu",
       "hp": 35,
       "sprites": {
@@ -217,7 +217,7 @@
       }
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "raichu",
       "hp": 60,
       "sprites": {
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "sandshrew",
       "hp": 50,
       "sprites": {
@@ -235,7 +235,7 @@
       }
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "sandslash",
       "hp": 75,
       "sprites": {
@@ -244,7 +244,7 @@
       }
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "nidoran-f",
       "hp": 55,
       "sprites": {
@@ -253,7 +253,7 @@
       }
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "nidorina",
       "hp": 70,
       "sprites": {
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "nidoqueen",
       "hp": 90,
       "sprites": {
@@ -271,7 +271,7 @@
       }
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "nidoran-m",
       "hp": 46,
       "sprites": {
@@ -280,7 +280,7 @@
       }
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "nidorino",
       "hp": 61,
       "sprites": {
@@ -289,7 +289,7 @@
       }
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "nidoking",
       "hp": 81,
       "sprites": {
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "clefairy",
       "hp": 70,
       "sprites": {
@@ -307,7 +307,7 @@
       }
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "clefable",
       "hp": 95,
       "sprites": {
@@ -316,7 +316,7 @@
       }
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "vulpix",
       "hp": 38,
       "sprites": {
@@ -325,7 +325,7 @@
       }
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "ninetales",
       "hp": 73,
       "sprites": {
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "jigglypuff",
       "hp": 115,
       "sprites": {
@@ -343,7 +343,7 @@
       }
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "wigglytuff",
       "hp": 140,
       "sprites": {
@@ -352,7 +352,7 @@
       }
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "zubat",
       "hp": 40,
       "sprites": {
@@ -361,7 +361,7 @@
       }
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "golbat",
       "hp": 75,
       "sprites": {
@@ -370,7 +370,7 @@
       }
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "oddish",
       "hp": 45,
       "sprites": {
@@ -379,7 +379,7 @@
       }
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "gloom",
       "hp": 60,
       "sprites": {
@@ -388,7 +388,7 @@
       }
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "vileplume",
       "hp": 75,
       "sprites": {
@@ -397,7 +397,7 @@
       }
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "paras",
       "hp": 35,
       "sprites": {
@@ -406,7 +406,7 @@
       }
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "parasect",
       "hp": 60,
       "sprites": {
@@ -415,7 +415,7 @@
       }
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "venonat",
       "hp": 60,
       "sprites": {
@@ -424,7 +424,7 @@
       }
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "venomoth",
       "hp": 70,
       "sprites": {
@@ -433,7 +433,7 @@
       }
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "diglett",
       "hp": 10,
       "sprites": {
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": 51,
+      "id": "51",
       "name": "dugtrio",
       "hp": 35,
       "sprites": {
@@ -451,7 +451,7 @@
       }
     },
     {
-      "id": 52,
+      "id": "52",
       "name": "meowth",
       "hp": 40,
       "sprites": {
@@ -460,7 +460,7 @@
       }
     },
     {
-      "id": 53,
+      "id": "53",
       "name": "persian",
       "hp": 65,
       "sprites": {
@@ -469,7 +469,7 @@
       }
     },
     {
-      "id": 54,
+      "id": "54",
       "name": "psyduck",
       "hp": 50,
       "sprites": {
@@ -478,7 +478,7 @@
       }
     },
     {
-      "id": 55,
+      "id": "55",
       "name": "golduck",
       "hp": 80,
       "sprites": {
@@ -487,7 +487,7 @@
       }
     },
     {
-      "id": 56,
+      "id": "56",
       "name": "mankey",
       "hp": 40,
       "sprites": {
@@ -496,7 +496,7 @@
       }
     },
     {
-      "id": 57,
+      "id": "57",
       "name": "primeape",
       "hp": 65,
       "sprites": {
@@ -505,7 +505,7 @@
       }
     },
     {
-      "id": 58,
+      "id": "58",
       "name": "growlithe",
       "hp": 55,
       "sprites": {
@@ -514,7 +514,7 @@
       }
     },
     {
-      "id": 59,
+      "id": "59",
       "name": "arcanine",
       "hp": 90,
       "sprites": {
@@ -523,7 +523,7 @@
       }
     },
     {
-      "id": 60,
+      "id": "60",
       "name": "poliwag",
       "hp": 40,
       "sprites": {
@@ -532,7 +532,7 @@
       }
     },
     {
-      "id": 61,
+      "id": "61",
       "name": "poliwhirl",
       "hp": 65,
       "sprites": {
@@ -541,7 +541,7 @@
       }
     },
     {
-      "id": 62,
+      "id": "62",
       "name": "poliwrath",
       "hp": 90,
       "sprites": {
@@ -550,7 +550,7 @@
       }
     },
     {
-      "id": 63,
+      "id": "63",
       "name": "abra",
       "hp": 25,
       "sprites": {
@@ -559,7 +559,7 @@
       }
     },
     {
-      "id": 64,
+      "id": "64",
       "name": "kadabra",
       "hp": 40,
       "sprites": {
@@ -568,7 +568,7 @@
       }
     },
     {
-      "id": 65,
+      "id": "65",
       "name": "alakazam",
       "hp": 55,
       "sprites": {
@@ -577,7 +577,7 @@
       }
     },
     {
-      "id": 66,
+      "id": "66",
       "name": "machop",
       "hp": 70,
       "sprites": {
@@ -586,7 +586,7 @@
       }
     },
     {
-      "id": 67,
+      "id": "67",
       "name": "machoke",
       "hp": 80,
       "sprites": {
@@ -595,7 +595,7 @@
       }
     },
     {
-      "id": 68,
+      "id": "68",
       "name": "machamp",
       "hp": 90,
       "sprites": {
@@ -604,7 +604,7 @@
       }
     },
     {
-      "id": 69,
+      "id": "69",
       "name": "bellsprout",
       "hp": 50,
       "sprites": {
@@ -613,7 +613,7 @@
       }
     },
     {
-      "id": 70,
+      "id": "70",
       "name": "weepinbell",
       "hp": 65,
       "sprites": {
@@ -622,7 +622,7 @@
       }
     },
     {
-      "id": 71,
+      "id": "71",
       "name": "victreebel",
       "hp": 80,
       "sprites": {
@@ -631,7 +631,7 @@
       }
     },
     {
-      "id": 72,
+      "id": "72",
       "name": "tentacool",
       "hp": 40,
       "sprites": {
@@ -640,7 +640,7 @@
       }
     },
     {
-      "id": 73,
+      "id": "73",
       "name": "tentacruel",
       "hp": 80,
       "sprites": {
@@ -649,7 +649,7 @@
       }
     },
     {
-      "id": 74,
+      "id": "74",
       "name": "geodude",
       "hp": 40,
       "sprites": {
@@ -658,7 +658,7 @@
       }
     },
     {
-      "id": 75,
+      "id": "75",
       "name": "graveler",
       "hp": 55,
       "sprites": {
@@ -667,7 +667,7 @@
       }
     },
     {
-      "id": 76,
+      "id": "76",
       "name": "golem",
       "hp": 80,
       "sprites": {
@@ -676,7 +676,7 @@
       }
     },
     {
-      "id": 77,
+      "id": "77",
       "name": "ponyta",
       "hp": 50,
       "sprites": {
@@ -685,7 +685,7 @@
       }
     },
     {
-      "id": 78,
+      "id": "78",
       "name": "rapidash",
       "hp": 65,
       "sprites": {
@@ -694,7 +694,7 @@
       }
     },
     {
-      "id": 79,
+      "id": "79",
       "name": "slowpoke",
       "hp": 90,
       "sprites": {
@@ -703,7 +703,7 @@
       }
     },
     {
-      "id": 80,
+      "id": "80",
       "name": "slowbro",
       "hp": 95,
       "sprites": {
@@ -712,7 +712,7 @@
       }
     },
     {
-      "id": 81,
+      "id": "81",
       "name": "magnemite",
       "hp": 25,
       "sprites": {
@@ -721,7 +721,7 @@
       }
     },
     {
-      "id": 82,
+      "id": "82",
       "name": "magneton",
       "hp": 50,
       "sprites": {
@@ -730,7 +730,7 @@
       }
     },
     {
-      "id": 83,
+      "id": "83",
       "name": "farfetchd",
       "hp": 52,
       "sprites": {
@@ -739,7 +739,7 @@
       }
     },
     {
-      "id": 84,
+      "id": "84",
       "name": "doduo",
       "hp": 35,
       "sprites": {
@@ -748,7 +748,7 @@
       }
     },
     {
-      "id": 85,
+      "id": "85",
       "name": "dodrio",
       "hp": 60,
       "sprites": {
@@ -757,7 +757,7 @@
       }
     },
     {
-      "id": 86,
+      "id": "86",
       "name": "seel",
       "hp": 65,
       "sprites": {
@@ -766,7 +766,7 @@
       }
     },
     {
-      "id": 87,
+      "id": "87",
       "name": "dewgong",
       "hp": 90,
       "sprites": {
@@ -775,7 +775,7 @@
       }
     },
     {
-      "id": 88,
+      "id": "88",
       "name": "grimer",
       "hp": 80,
       "sprites": {
@@ -784,7 +784,7 @@
       }
     },
     {
-      "id": 89,
+      "id": "89",
       "name": "muk",
       "hp": 105,
       "sprites": {
@@ -793,7 +793,7 @@
       }
     },
     {
-      "id": 90,
+      "id": "90",
       "name": "shellder",
       "hp": 30,
       "sprites": {
@@ -802,7 +802,7 @@
       }
     },
     {
-      "id": 91,
+      "id": "91",
       "name": "cloyster",
       "hp": 50,
       "sprites": {
@@ -811,7 +811,7 @@
       }
     },
     {
-      "id": 92,
+      "id": "92",
       "name": "gastly",
       "hp": 30,
       "sprites": {
@@ -820,7 +820,7 @@
       }
     },
     {
-      "id": 93,
+      "id": "93",
       "name": "haunter",
       "hp": 45,
       "sprites": {
@@ -829,7 +829,7 @@
       }
     },
     {
-      "id": 94,
+      "id": "94",
       "name": "gengar",
       "hp": 60,
       "sprites": {
@@ -838,7 +838,7 @@
       }
     },
     {
-      "id": 95,
+      "id": "95",
       "name": "onix",
       "hp": 35,
       "sprites": {
@@ -847,7 +847,7 @@
       }
     },
     {
-      "id": 96,
+      "id": "96",
       "name": "drowzee",
       "hp": 60,
       "sprites": {
@@ -856,7 +856,7 @@
       }
     },
     {
-      "id": 97,
+      "id": "97",
       "name": "hypno",
       "hp": 85,
       "sprites": {
@@ -865,7 +865,7 @@
       }
     },
     {
-      "id": 98,
+      "id": "98",
       "name": "krabby",
       "hp": 30,
       "sprites": {
@@ -874,7 +874,7 @@
       }
     },
     {
-      "id": 99,
+      "id": "99",
       "name": "kingler",
       "hp": 55,
       "sprites": {
@@ -883,7 +883,7 @@
       }
     },
     {
-      "id": 100,
+      "id": "100",
       "name": "voltorb",
       "hp": 40,
       "sprites": {
@@ -892,7 +892,7 @@
       }
     },
     {
-      "id": 101,
+      "id": "101",
       "name": "electrode",
       "hp": 60,
       "sprites": {
@@ -901,7 +901,7 @@
       }
     },
     {
-      "id": 102,
+      "id": "102",
       "name": "exeggcute",
       "hp": 60,
       "sprites": {
@@ -910,7 +910,7 @@
       }
     },
     {
-      "id": 103,
+      "id": "103",
       "name": "exeggutor",
       "hp": 95,
       "sprites": {
@@ -919,7 +919,7 @@
       }
     },
     {
-      "id": 104,
+      "id": "104",
       "name": "cubone",
       "hp": 50,
       "sprites": {
@@ -928,7 +928,7 @@
       }
     },
     {
-      "id": 105,
+      "id": "105",
       "name": "marowak",
       "hp": 60,
       "sprites": {
@@ -937,7 +937,7 @@
       }
     },
     {
-      "id": 106,
+      "id": "106",
       "name": "hitmonlee",
       "hp": 50,
       "sprites": {
@@ -946,7 +946,7 @@
       }
     },
     {
-      "id": 107,
+      "id": "107",
       "name": "hitmonchan",
       "hp": 50,
       "sprites": {
@@ -955,7 +955,7 @@
       }
     },
     {
-      "id": 108,
+      "id": "108",
       "name": "lickitung",
       "hp": 90,
       "sprites": {
@@ -964,7 +964,7 @@
       }
     },
     {
-      "id": 109,
+      "id": "109",
       "name": "koffing",
       "hp": 40,
       "sprites": {
@@ -973,7 +973,7 @@
       }
     },
     {
-      "id": 110,
+      "id": "110",
       "name": "weezing",
       "hp": 65,
       "sprites": {
@@ -982,7 +982,7 @@
       }
     },
     {
-      "id": 111,
+      "id": "111",
       "name": "rhyhorn",
       "hp": 80,
       "sprites": {
@@ -991,7 +991,7 @@
       }
     },
     {
-      "id": 112,
+      "id": "112",
       "name": "rhydon",
       "hp": 105,
       "sprites": {
@@ -1000,7 +1000,7 @@
       }
     },
     {
-      "id": 113,
+      "id": "113",
       "name": "chansey",
       "hp": 250,
       "sprites": {
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "id": 114,
+      "id": "114",
       "name": "tangela",
       "hp": 65,
       "sprites": {
@@ -1018,7 +1018,7 @@
       }
     },
     {
-      "id": 115,
+      "id": "115",
       "name": "kangaskhan",
       "hp": 105,
       "sprites": {
@@ -1027,7 +1027,7 @@
       }
     },
     {
-      "id": 116,
+      "id": "116",
       "name": "horsea",
       "hp": 30,
       "sprites": {
@@ -1036,7 +1036,7 @@
       }
     },
     {
-      "id": 117,
+      "id": "117",
       "name": "seadra",
       "hp": 55,
       "sprites": {
@@ -1045,7 +1045,7 @@
       }
     },
     {
-      "id": 118,
+      "id": "118",
       "name": "goldeen",
       "hp": 45,
       "sprites": {
@@ -1054,7 +1054,7 @@
       }
     },
     {
-      "id": 119,
+      "id": "119",
       "name": "seaking",
       "hp": 80,
       "sprites": {
@@ -1063,7 +1063,7 @@
       }
     },
     {
-      "id": 120,
+      "id": "120",
       "name": "staryu",
       "hp": 30,
       "sprites": {
@@ -1072,7 +1072,7 @@
       }
     },
     {
-      "id": 121,
+      "id": "121",
       "name": "starmie",
       "hp": 60,
       "sprites": {
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "id": 122,
+      "id": "122",
       "name": "mr-mime",
       "hp": 40,
       "sprites": {
@@ -1090,7 +1090,7 @@
       }
     },
     {
-      "id": 123,
+      "id": "123",
       "name": "scyther",
       "hp": 70,
       "sprites": {
@@ -1099,7 +1099,7 @@
       }
     },
     {
-      "id": 124,
+      "id": "124",
       "name": "jynx",
       "hp": 65,
       "sprites": {
@@ -1108,7 +1108,7 @@
       }
     },
     {
-      "id": 125,
+      "id": "125",
       "name": "electabuzz",
       "hp": 65,
       "sprites": {
@@ -1117,7 +1117,7 @@
       }
     },
     {
-      "id": 126,
+      "id": "126",
       "name": "magmar",
       "hp": 65,
       "sprites": {
@@ -1126,7 +1126,7 @@
       }
     },
     {
-      "id": 127,
+      "id": "127",
       "name": "pinsir",
       "hp": 65,
       "sprites": {
@@ -1135,7 +1135,7 @@
       }
     },
     {
-      "id": 128,
+      "id": "128",
       "name": "tauros",
       "hp": 75,
       "sprites": {
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "id": 129,
+      "id": "129",
       "name": "magikarp",
       "hp": 20,
       "sprites": {
@@ -1153,7 +1153,7 @@
       }
     },
     {
-      "id": 130,
+      "id": "130",
       "name": "gyarados",
       "hp": 95,
       "sprites": {
@@ -1162,7 +1162,7 @@
       }
     },
     {
-      "id": 131,
+      "id": "131",
       "name": "lapras",
       "hp": 130,
       "sprites": {
@@ -1171,7 +1171,7 @@
       }
     },
     {
-      "id": 132,
+      "id": "132",
       "name": "ditto",
       "hp": 48,
       "sprites": {
@@ -1180,7 +1180,7 @@
       }
     },
     {
-      "id": 133,
+      "id": "133",
       "name": "eevee",
       "hp": 55,
       "sprites": {
@@ -1189,7 +1189,7 @@
       }
     },
     {
-      "id": 134,
+      "id": "134",
       "name": "vaporeon",
       "hp": 130,
       "sprites": {
@@ -1198,7 +1198,7 @@
       }
     },
     {
-      "id": 135,
+      "id": "135",
       "name": "jolteon",
       "hp": 65,
       "sprites": {
@@ -1207,7 +1207,7 @@
       }
     },
     {
-      "id": 136,
+      "id": "136",
       "name": "flareon",
       "hp": 65,
       "sprites": {
@@ -1216,7 +1216,7 @@
       }
     },
     {
-      "id": 137,
+      "id": "137",
       "name": "porygon",
       "hp": 65,
       "sprites": {
@@ -1225,7 +1225,7 @@
       }
     },
     {
-      "id": 138,
+      "id": "138",
       "name": "omanyte",
       "hp": 35,
       "sprites": {
@@ -1234,7 +1234,7 @@
       }
     },
     {
-      "id": 139,
+      "id": "139",
       "name": "omastar",
       "hp": 70,
       "sprites": {
@@ -1243,7 +1243,7 @@
       }
     },
     {
-      "id": 140,
+      "id": "140",
       "name": "kabuto",
       "hp": 30,
       "sprites": {
@@ -1252,7 +1252,7 @@
       }
     },
     {
-      "id": 141,
+      "id": "141",
       "name": "kabutops",
       "hp": 60,
       "sprites": {
@@ -1261,7 +1261,7 @@
       }
     },
     {
-      "id": 142,
+      "id": "142",
       "name": "aerodactyl",
       "hp": 80,
       "sprites": {
@@ -1270,7 +1270,7 @@
       }
     },
     {
-      "id": 143,
+      "id": "143",
       "name": "snorlax",
       "hp": 160,
       "sprites": {
@@ -1279,7 +1279,7 @@
       }
     },
     {
-      "id": 144,
+      "id": "144",
       "name": "articuno",
       "hp": 90,
       "sprites": {
@@ -1288,7 +1288,7 @@
       }
     },
     {
-      "id": 145,
+      "id": "145",
       "name": "zapdos",
       "hp": 90,
       "sprites": {
@@ -1297,7 +1297,7 @@
       }
     },
     {
-      "id": 146,
+      "id": "146",
       "name": "moltres",
       "hp": 90,
       "sprites": {
@@ -1306,7 +1306,7 @@
       }
     },
     {
-      "id": 147,
+      "id": "147",
       "name": "dratini",
       "hp": 41,
       "sprites": {
@@ -1315,7 +1315,7 @@
       }
     },
     {
-      "id": 148,
+      "id": "148",
       "name": "dragonair",
       "hp": 61,
       "sprites": {
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "id": 149,
+      "id": "149",
       "name": "dragonite",
       "hp": 91,
       "sprites": {
@@ -1333,7 +1333,7 @@
       }
     },
     {
-      "id": 150,
+      "id": "150",
       "name": "mewtwo",
       "hp": 106,
       "sprites": {
